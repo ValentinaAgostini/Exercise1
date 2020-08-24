@@ -1,4 +1,4 @@
-# PAExercise1
+# Exercise1
 Class FlatArray.java contains algorithm to generate a flat Integer Array from a generic Object Array as input.
 Class FlatArrayTest.java contains a test suite for FlatArray.java.
 
